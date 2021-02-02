@@ -1,0 +1,22 @@
+.heading{
+width: 90%;
+background-color: rgba(57, 55, 165, 0.486);
+color: white;
+height: 100px;
+border:blue 7px solid;
+font-size: 60px;
+font-weight: bold;
+};
+.statusclass{
+    color: white;
+height: 30px;
+border:crimson 7px solid;
+font-size: 10px;
+font-weight: 500;}
+.linkbtton{
+    border-radius: 35px;
+    width: 70%;
+    font-size: xx-large;
+    height: fit-content;
+    margin-top: 15px;
+}
